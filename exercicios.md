@@ -11,3 +11,4 @@
 5. Examina um número e mostra o antecessor e o sucessor
 6. Leia um número e mostre o seu dobro, triplo e raiz quadrada
 7. Média aritmética entre duas notas
+8. Conversor de Medidas
