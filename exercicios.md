@@ -5,6 +5,7 @@
 ## Lista de Exercícios
 
 1. Olá Mundo!
-2. Dia, mês e ano 
-3. Soma dos números 
+2. Dia, mês e ano
+3. Soma dos números
 4. Ler algo e mostrar o tipo primitivo e informações possíveis
+5. Examina um número e mostra o antecessor e o sucessor
