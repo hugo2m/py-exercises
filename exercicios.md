@@ -18,3 +18,4 @@
 12. Leia o preço de um produto e mostre seu novo preço com 5% de desconto
 13. Leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
 14. Leia uma temperatura em °C e converta para °F
+15. Leia km pecorrido por um carro alugado e a quantidade de dias
