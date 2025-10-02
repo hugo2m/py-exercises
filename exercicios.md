@@ -17,3 +17,4 @@
 11. Leia a largura e altura de uma parede em mertos e calcule a área e a quantidade de tinta para pintá-la
 12. Leia o preço de um produto e mostre seu novo preço com 5% de desconto
 13. Leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
+14. Leia uma temperatura em °C e converta para °F
