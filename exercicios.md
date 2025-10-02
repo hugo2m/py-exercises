@@ -15,3 +15,4 @@
 9.  Leia um número inteiro e mostre a sua tabuada
 10. Leia uma quantidade de dinheiro R$ e mostre em dólares U
 11. Leia a largura e altura de uma parede em mertos e calcule a área e a quantidade de tinta para pintá-la
+12. Leia o preço de um produto e mostre seu novo preço com 5% de desconto
