@@ -19,3 +19,4 @@
 13. Leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
 14. Leia uma temperatura em °C e converta para °F
 15. Leia km pecorrido por um carro alugado e a quantidade de dias
+16. Leia um número e mostre sua porção inteira
