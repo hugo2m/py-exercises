@@ -24,3 +24,4 @@
 18. Leia um ângulo qualquer e mostre o valor do seno, cosseno e tangente desse ângulo.
 19. Faça um código que sortei um dos quatro alunos para apagar o quadro
 20. Faça um código que faça um sorteio da ordem de apresentação de trabalho dos alunos
+21. Faça um programa que abra e reproduza um arquivo mp3
