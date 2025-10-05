@@ -20,3 +20,6 @@
 14. Leia uma temperatura em °C e converta para °F
 15. Leia km pecorrido por um carro alugado e a quantidade de dias
 16. Leia um número e mostre sua porção inteira
+17. Leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa
+18. Leia um ângulo qualquer e mostre o valor do seno, cosseno e tangente desse ângulo.
+19. Faça um código que sortei um dos quatro alunos para apagar o quadro
