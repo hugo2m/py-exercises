@@ -23,3 +23,4 @@
 17. Leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa
 18. Leia um ângulo qualquer e mostre o valor do seno, cosseno e tangente desse ângulo.
 19. Faça um código que sortei um dos quatro alunos para apagar o quadro
+20. Faça um código que faça um sorteio da ordem de apresentação de trabalho dos alunos
