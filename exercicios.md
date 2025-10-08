@@ -25,3 +25,9 @@
 19. Faça um código que sortei um dos quatro alunos para apagar o quadro
 20. Faça um código que faça um sorteio da ordem de apresentação de trabalho dos alunos
 21. Faça um programa que abra e reproduza um arquivo mp3
+22. Leia um nome completo de uma pessoa e mostre:
+    - Nome com todas as letras maíusculas e minúsculas;
+    - Quantas letras ao todo (sem considerar espaço);
+    - Quantas letras tem o primeiro nome.
+23. Leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados:
+    - Exemplo: 1834 > unidade:4 dezena:3 centena:8 milhar:1
