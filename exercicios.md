@@ -33,3 +33,5 @@
     - Exemplo: 1834 > unidade:4 dezena:3 centena:8 milhar:1
 24. Leia um nome de uma cidade e diga se ele começa ou não com a palavra "Santo"
 25. Leia um nome de uma pessoa e diga se ele tem Silva
+26.
+27. Leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
