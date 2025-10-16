@@ -31,3 +31,5 @@
     - Quantas letras tem o primeiro nome.
 23. Leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados:
     - Exemplo: 1834 > unidade:4 dezena:3 centena:8 milhar:1
+24. Leia um nome de uma cidade e diga se ele começa ou não com a palavra "Santo"
+25. Leia um nome de uma pessoa e diga se ele tem Silva
