@@ -40,3 +40,6 @@
 27. Leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 28. Faça o computador "pensar" em um número inteiro entre 0 e 5 e peça paar o usuário tentar descobrir qual número foi escolhido.
     O programa deverá escrevr na tela se o usuário venceu ou perdeu.
+29. Leia a velocidade de um carro:
+    - Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado.
+    - A multa vai custar R$7,00 por cada Km acima do limite.
