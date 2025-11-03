@@ -38,3 +38,5 @@
     - Em que posição ela aparece a primeira vez
     - Em que posição ela aparece a última vez
 27. Leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+28. Faça o computador "pensar" em um número inteiro entre 0 e 5 e peça paar o usuário tentar descobrir qual número foi escolhido.
+    O programa deverá escrevr na tela se o usuário venceu ou perdeu.
