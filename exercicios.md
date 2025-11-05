@@ -47,3 +47,4 @@
 31. Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
 32. Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 33. Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+34. Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
